@@ -6,11 +6,11 @@ BetterTake helps you choose real expressions from a short burst or 2–8 photos 
 
 [Contact support](mailto:houzhenqing.colin@gmail.com) · [简体中文](README.zh-Hans.md) · [Privacy policy](PRIVACY.md)
 
-For iPhone with iOS 17 or later. Supports English, Simplified Chinese and Traditional Chinese. App Store release is being prepared.
+For iPhone with iOS 17 or later. Supports English, Simplified Chinese and Traditional Chinese. [View on the App Store](https://apps.apple.com/app/id6810334268).
 
 ## Get started
 
-1. Take a short burst in BetterTake, or import 2–8 photos taken within one minute. Use the same camera angle and keep people in roughly the same positions.
+1. Take a short burst in BetterTake, or import 2–8 photos of the same people. Use a similar camera angle and keep people in roughly the same positions. Version 1.0.1 accepts different photo sizes and capture times; version 1.0.0 requires matching dimensions and photos taken within one minute.
 2. Tap a person and choose an available expression from another photo. Eyes and mouth change together from that real source photo.
 3. Zoom in, compare with the original, and undo changes if needed. Save to Photos when you are happy with the result.
 
@@ -30,7 +30,7 @@ Analysis and composition run on your iPhone. BetterTake has no account, remote p
 
 ### What happens to photo quality?
 
-Saving and sharing export a JPEG at the original pixel dimensions. This is not a promise to preserve RAW/TIFF encoding, bit depth, or lossless quality. Large images take longer and need available storage. Import supports up to 200 megapixels and 32,768 pixels on either edge, up to 1 GiB encoded per image and 8 GiB per set. Photos in a set must have matching dimensions and orientation after normalization.
+Saving and sharing export a JPEG at the original pixel dimensions. This is not a promise to preserve RAW/TIFF encoding, bit depth, or lossless quality. Large images take longer and need available storage. Import supports up to 200 megapixels and 32,768 pixels on either edge, up to 1 GiB encoded per image and 8 GiB per set. From version 1.0.1, photos in a set may have different dimensions and capture times. Importing successfully does not guarantee that every expression can be matched and aligned.
 
 ### Why can't I save or use the camera?
 
@@ -50,4 +50,4 @@ You can write in English or Chinese. Include your iPhone model, iOS version, Bet
 
 [Read the privacy policy in English and Simplified Chinese](PRIVACY.md).
 
-Developer: Zhenqing Hou. Updated September 10, 2026.
+Developer: Zhenqing Hou. Updated September 20, 2026. Version 1.0.1 availability depends on App Store review and release.
