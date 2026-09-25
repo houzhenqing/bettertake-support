@@ -1,4 +1,6 @@
-# BetterTake
+# BetterTake — choose expressions for group photos
+
+Official developer page by Zhenqing Hou.
 
 Your favorite expressions may be in different photos. Bring them into one group shot.
 
@@ -6,7 +8,15 @@ BetterTake helps you choose real expressions from a short burst or 2–8 photos 
 
 [Contact support](mailto:houzhenqing.colin@gmail.com) · [简体中文](README.zh-Hans.md) · [Privacy policy](PRIVACY.md)
 
-For iPhone with iOS 17 or later. Supports English, Simplified Chinese and Traditional Chinese. [View on the App Store](https://apps.apple.com/app/id6810334268).
+**[Try BetterTake on the App Store](https://apps.apple.com/us/app/bettertake-group-photos/id6810334268?pt=126854967&ct=bt_github_en_20260925&mt=8)** · iPhone, iOS 17+ · English and Chinese
+
+Start with 2–8 photos of the same people. Choose an available expression, compare the original, and save. Editing runs on your iPhone without an account. Similar angles work best; some expressions may not align.
+
+### See an example
+
+The screenshot shows BetterTake actually editing an expression. The source photos depict **AI-generated fictional adults**; BetterTake itself does not generate faces. This example is not a guarantee for every photo.
+
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/83/9b/d9839bcf-72ee-7120-cf15-bc89930e5038/en-1.png/320x480bb.jpg" width="240" alt="BetterTake showing an available expression selected from another photo, with original comparison and save controls">
 
 ## Get started
 
@@ -50,4 +60,4 @@ You can write in English or Chinese. Include your iPhone model, iOS version, Bet
 
 [Read the privacy policy in English and Simplified Chinese](PRIVACY.md).
 
-Developer: Zhenqing Hou. Updated September 20, 2026. Version 1.0.1 availability depends on App Store review and release.
+Developer: Zhenqing Hou. Updated September 25, 2026. Version 1.0.1 is available on the App Store.
