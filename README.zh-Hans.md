@@ -1,12 +1,22 @@
 # BetterTake：合照选表情
 
+开发者 Zhenqing Hou 的官方介绍与支持页。
+
 喜欢的表情，不必刚好在同一张。BetterTake 帮你从同次照片里，组合出更满意的合照。
 
 家庭聚会、朋友出游、想留下的相聚时刻：直接连拍，或导入同次拍摄的 2–8 张照片，为每个人挑选可用的真实表情。
 
 [联系支持](mailto:houzhenqing.colin@gmail.com) · [English](README.md) · [隐私政策](PRIVACY.md)
 
-适用于 iOS 17 及以上版本的 iPhone。App 支持英文、简体中文和繁体中文，[前往 App Store](https://apps.apple.com/app/id6810334268)。
+**[前往 App Store 体验 BetterTake](https://apps.apple.com/cn/app/bettertake-%E5%90%88%E7%85%A7%E9%80%89%E8%A1%A8%E6%83%85/id6810334268?pt=126854967&ct=bt_github_zh_20260925&mt=8)** · iPhone，iOS 17+ · 支持英文、简体中文和繁体中文
+
+从同一组人物的 2–8 张照片开始，选可用的表情，对比原图后保存。照片在 iPhone 本地编辑，无需账号。建议角度相近；部分表情可能无法对齐。
+
+### 看看实际效果
+
+截图展示 BetterTake 实际完成的表情编辑。示例原片中的成年人均为 **AI 生成的虚构人物**；BetterTake 本身不生成人脸。示例不代表所有照片都能获得相同效果。
+
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/03/47/2f0347aa-7b69-b44c-dba7-fc0309eeaf80/zh-Hans-1.png/320x480bb.jpg" width="240" alt="BetterTake 从另一张照片选择可用表情，支持对比原图与保存">
 
 ## 开始使用
 
@@ -50,4 +60,4 @@ BetterTake 不覆盖相册原片，保存会创建新图片。App 没有编辑�
 
 [阅读中英文隐私政策](PRIVACY.md)。
 
-开发者：Zhenqing Hou。更新日期：2026 年 9 月 20 日。1.0.1 版的可用时间取决于 App Store 审核和发布。
+开发者：Zhenqing Hou。更新日期：2026 年 9 月 25 日。1.0.1 版已在 App Store 上线。
