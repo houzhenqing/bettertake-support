@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://houzhenqing.github.io/bettertake-support/sitemap.xml
