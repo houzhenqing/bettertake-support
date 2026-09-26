@@ -2,7 +2,7 @@
 
 Official developer page by Zhenqing Hou.
 
-Your favorite expressions may be in different photos. Bring them into one group shot.
+Someone blinked in your group photo? Choose an available expression from another photo of the same people with BetterTake for iPhone.
 
 BetterTake helps you choose real expressions from a short burst or 2–8 photos of the same moment. For family get-togethers, trips with friends, and the moments you want to keep.
 
@@ -12,6 +12,8 @@ BetterTake helps you choose real expressions from a short burst or 2–8 photos 
 
 Start with 2–8 photos of the same people. Choose an available expression, compare the original, and save. Editing runs on your iPhone without an account. Similar angles work best; some expressions may not align.
 
+**[Step-by-step guide: fix a blink using another shot](fix-a-blink.md)** — two source photos, an actual editing screenshot, and what to do when an expression is unavailable.
+
 ### See an example
 
 The screenshot shows BetterTake actually editing an expression. The source photos depict **AI-generated fictional adults**; BetterTake itself does not generate faces. This example is not a guarantee for every photo.
@@ -20,7 +22,7 @@ The screenshot shows BetterTake actually editing an expression. The source photo
 
 ## Get started
 
-1. Take a short burst in BetterTake, or import 2–8 photos of the same people. Use a similar camera angle and keep people in roughly the same positions. Version 1.0.1 accepts different photo sizes and capture times; version 1.0.0 requires matching dimensions and photos taken within one minute.
+1. Take a short burst in BetterTake, or import 2–8 photos of the same people. Use a similar camera angle and keep people in roughly the same positions. Version 1.0.1 accepts different photo sizes and capture times.
 2. Tap a person and choose an available expression from another photo. Eyes and mouth change together from that real source photo.
 3. Zoom in, compare with the original, and undo changes if needed. Save to Photos when you are happy with the result.
 
@@ -50,6 +52,10 @@ Allow Camera access for in-app capture and permission to add photos when saving.
 
 BetterTake does not overwrite your original Photos items. Saving creates a new image. It does not provide a saved-project library or account-based restore; save the result before leaving a session. App-private temporary files are used during import and export. Saved and shared copies are managed in Photos or the destination you chose.
 
+## Older versions
+
+Version 1.0.0 requires matching photo dimensions and capture times within one minute. Update to 1.0.1 or later for more flexible imports. Similar angles still matter for usable expressions.
+
 ## Contact support
 
 [Email houzhenqing.colin@gmail.com](mailto:houzhenqing.colin@gmail.com)
@@ -60,4 +66,4 @@ You can write in English or Chinese. Include your iPhone model, iOS version, Bet
 
 [Read the privacy policy in English and Simplified Chinese](PRIVACY.md).
 
-Developer: Zhenqing Hou. Updated September 25, 2026. Version 1.0.1 is available on the App Store.
+Developer: Zhenqing Hou. Updated September 26, 2026. Version 1.0.1 is available on the App Store.
