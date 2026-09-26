@@ -2,7 +2,7 @@
 
 想保留的合照里有人眨眼？如果另一张照片中，同一个人有可用的睁眼表情，可以用 BetterTake 为合照选择这个表情。导入同一组人物的 2–8 张照片，建议拍摄角度相近、人物位置变化较小。编辑在 iPhone 本地完成，无需账号。
 
-**[前往 App Store 下载 BetterTake](https://apps.apple.com/app/apple-store/id6810334268?pt=126854967&ct=bt_blink_guide_20260926&mt=8)** · iPhone · iOS 17+ · 英文、简体中文、繁体中文
+**[前往 App Store 下载 BetterTake](https://apps.apple.com/cn/app/bettertake-%E5%90%88%E7%85%A7%E9%80%89%E8%A1%A8%E6%83%85/id6810334268?pt=126854967&ct=bt_blink_guide_20260926&mt=8)** · iPhone · iOS 17+ · 英文、简体中文、繁体中文
 
 [English](fix-a-blink.md) · [官方支持](README.zh-Hans.md) · [隐私政策](PRIVACY.md)
 
@@ -50,8 +50,8 @@
 
 分析和编辑在 iPhone 本地完成，不上传到照片处理服务器。iCloud 原片可能通过 Apple 服务下载；主动分享时使用你选择的目标。无需账号。[阅读隐私政策](PRIVACY.md)。
 
-**[用自己的照片试试 BetterTake](https://apps.apple.com/app/apple-store/id6810334268?pt=126854967&ct=bt_blink_guide_20260926&mt=8)**
+**[用自己的照片试试 BetterTake](https://apps.apple.com/cn/app/bettertake-%E5%90%88%E7%85%A7%E9%80%89%E8%A1%A8%E6%83%85/id6810334268?pt=126854967&ct=bt_blink_guide_20260926&mt=8)**
 
 遇到问题可以[联系开发者](mailto:houzhenqing.colin@gmail.com)。你也可以自愿告诉我们从哪里找到 BetterTake；如果是 ChatGPT，大概问了什么。不需要发送完整对话或私人照片，先描述步骤即可。
 
-作者：BetterTake 开发者 Zhenqing Hou。更新于 2026 年 9 月 26 日。本文介绍 1.0.1 已有的照片导入和表情编辑功能，不依赖尚未发布的示例体验按钮。
+作者：BetterTake 开发者 Zhenqing Hou。更新于 2026 年 9 月 26 日。本文介绍 1.0.1 已有的照片导入和表情编辑功能。

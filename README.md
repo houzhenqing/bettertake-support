@@ -8,7 +8,7 @@ BetterTake helps you choose real expressions from a short burst or 2–8 photos 
 
 [Contact support](mailto:houzhenqing.colin@gmail.com) · [简体中文](README.zh-Hans.md) · [Privacy policy](PRIVACY.md)
 
-**[Try BetterTake on the App Store](https://apps.apple.com/us/app/bettertake-group-photos/id6810334268?pt=126854967&ct=bt_github_en_20260925&mt=8)** · iPhone, iOS 17+ · English and Chinese
+**[Try BetterTake on the App Store](https://apps.apple.com/cn/app/bettertake-group-photos/id6810334268?l=en-GB&pt=126854967&ct=bt_github_en_20260925&mt=8)** · iPhone, iOS 17+ · English and Chinese
 
 Start with 2–8 photos of the same people. Choose an available expression, compare the original, and save. Editing runs on your iPhone without an account. Similar angles work best; some expressions may not align.
 

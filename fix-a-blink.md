@@ -2,7 +2,7 @@
 
 Someone blinked in a group photo you want to keep? If you have another photo of the same people with a usable expression, BetterTake lets you choose it for the group shot. Import 2–8 photos with similar camera angles and people in roughly the same positions. Editing runs on your iPhone, without an account.
 
-**[Get BetterTake on the App Store](https://apps.apple.com/app/apple-store/id6810334268?pt=126854967&ct=bt_blink_guide_20260926&mt=8)** · iPhone · iOS 17+ · English, Simplified Chinese and Traditional Chinese
+**[Get BetterTake on the App Store](https://apps.apple.com/cn/app/bettertake-group-photos/id6810334268?l=en-GB&pt=126854967&ct=bt_blink_guide_20260926&mt=8)** · iPhone · iOS 17+ · English, Simplified Chinese and Traditional Chinese
 
 [简体中文](fix-a-blink.zh-Hans.md) · [Official support](README.md) · [Privacy](PRIVACY.md)
 
@@ -50,8 +50,8 @@ If you only have one photo, BetterTake cannot invent the missing open-eyed expre
 
 Analysis and editing happen on your iPhone without uploading photos to a processing server. iCloud may download your originals through Apple's services, and sharing uses the destination you choose. No account is needed. [Read the privacy policy](PRIVACY.md).
 
-**[Try BetterTake with your own photos](https://apps.apple.com/app/apple-store/id6810334268?pt=126854967&ct=bt_blink_guide_20260926&mt=8)**
+**[Try BetterTake with your own photos](https://apps.apple.com/cn/app/bettertake-group-photos/id6810334268?l=en-GB&pt=126854967&ct=bt_blink_guide_20260926&mt=8)**
 
 Questions? [Email the developer](mailto:houzhenqing.colin@gmail.com). You can optionally say where you found BetterTake and, if it was ChatGPT, roughly what you asked. Do not send your full conversation or private photos; a description of the steps is enough to start.
 
-Written by Zhenqing Hou, BetterTake's developer. Updated September 26, 2026. Describes photo-import and expression-editing features available in version 1.0.1; no unreleased sample button is required.
+Written by Zhenqing Hou, BetterTake's developer. Updated September 26, 2026. Describes photo-import and expression-editing features available in version 1.0.1.
