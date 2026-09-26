@@ -1,5 +1,7 @@
 # BetterTake：合照选表情
 
+官方网站：[BetterTake 合照选表情](https://houzhenqing.github.io/bettertake-support/zh.html) · [闭眼修复图解教程](https://houzhenqing.github.io/bettertake-support/fix-a-blink.zh-Hans.html)
+
 开发者 Zhenqing Hou 的官方介绍与支持页。
 
 合照里有人眨眼？BetterTake 帮你从同一组人物的另一张照片中，选择可用的真实表情。

@@ -1,5 +1,7 @@
 # BetterTake — choose expressions for group photos
 
+Official website: [BetterTake for iPhone](https://houzhenqing.github.io/bettertake-support/) · [Illustrated photo guide](https://houzhenqing.github.io/bettertake-support/fix-a-blink.html)
+
 Official developer page by Zhenqing Hou.
 
 Someone blinked in your group photo? Choose an available expression from another photo of the same people with BetterTake for iPhone.
